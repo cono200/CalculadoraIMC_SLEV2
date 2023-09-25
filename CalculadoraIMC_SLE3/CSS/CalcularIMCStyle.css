@@ -1,0 +1,35 @@
+﻿^ContentPage{
+    background-color:gray;
+    padding: 25,0;
+}
+
+frame.titulo{
+    background-color: white;
+    border-radius:2,2;
+}
+
+/*FRAME PARA LA CLASE Y EL GATITO PARA EL ID*/
+label {
+
+    color: blue;
+    font-size: 20;
+}
+
+#encabezado{
+    color: black;
+    font-size: 36;
+    font-style: bold;
+}
+
+Entry {
+    background-color: yellow;
+    color: red;
+    font-style: bold;
+}
+
+#resultado {
+    background-color:forestgreen;
+    font-size:30;
+}
+
+
